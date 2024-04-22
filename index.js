@@ -28,7 +28,7 @@ const addMetaData = (_edition, _layer) => {
   metaData.push(temporaryMetaData);
   attributes = [];
   hash = [];
-  decodedHash = []; // clearing all arrays 
+  decodedHash = [];
 };
 
 const addAttr = (_element, _layer) => {
